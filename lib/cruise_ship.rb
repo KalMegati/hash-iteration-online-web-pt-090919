@@ -7,7 +7,5 @@
 # }
 
 def select_winner(passengers)
-  passengers.each { |room, guest|
-  
-  }
+  return passengers[:suite_a] if 
 end
